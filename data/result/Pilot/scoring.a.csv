@@ -1,0 +1,99 @@
+Segment ID,Source Segment,MT Target Segment,Segment Origin,Comment,Number of Words (Source Segment),Number of Words (Target Segment),Fluency,Fluency Score,Adequacy,Adequacy Score
+1,Buenas noches.,안녕하세요.,Cinco Continentes_Ebola,,2,1,Flawless,4,Everything,4
+2,"Comienza a Cinco Continentes, programa de información internacional de radio nacional de España, en las sintonías de radio cinco y radio exterior. ",스페인의 국제 라디오 프로그램 인 Cinco Continentes를 라디오 5와 외부 라디오에서 시작합니다.,Cinco Continentes_Ebola,,22,12,Flawless,4,Most,3
+3,Un espacio en el que tratamos de acercarles la actualidad y el análisis de los acontecimientos más importantes fuera de nuestras fronteras que elaboramos cada día desde el área internacional de la radio pública española. ,스페인 공영 라디오의 국제 분야에서 매일 우리가 만드는 국경 밖의 가장 중요한 사건에 대한 뉴스와 분석을 제공하기위한 공간.,Cinco Continentes_Ebola,,35,18,Flawless,4,Most,3
+4,Les habla Miguel Molleda.,Miguel Molleda가 너에게 말한다.,Cinco Continentes_Ebola,,4,4,Disfluent,2,Most,3
+5,En nuestro espacio de hoy estaremos en Monrovia para comprobar con Médicos sin Fronteras si la epidemia de ébola está aflojando en uno de los países más afectados por la enfermedad.,에볼라 전염병은 대부분의 질병에 의해 영향을받는 국가에 급증하는 경우 우리는 몬로 비아에있는 우리의 공간에서 오늘은 국경없는 의사 회와 함께 확인합니다.,Cinco Continentes_Ebola,,31,20,Disfluent,2,Most,3
+6,Hemos escuchado también hoy al jefe de la misión de Naciones Unidas contra el ébola en África Tony Banbury afirmar que la crisis continúa y que hacen falta muchos más recursos para combatirla.,"우리는 또한 아프리카에서 에볼라에 반대하는 유엔의 사역 책임자 인 토니 반 버리 (Tony Banbury)가 위기가 계속되고 있으며, 더 많은 자원이이를 극복하기 위해 필요하다고 단언했다.",Cinco Continentes_Ebola,,33,24,Disfluent,2,Most,3
+7,Tendremos más informaciones también y asuntos en nuestro programa de hoy que les anticipa ya Ana Zurita.,아나 준 리타 (Ana Zurita)가 예상하는 더 많은 정보와 문제가 오늘 우리 프로그램에있을 것입니다.,Cinco Continentes_Ebola,,17,14,Good,3,Most,3
+8,"Continúa la tensión en Jerusalén tras los últimos ataques y disturbios que han costado la vida a una persona, ",예루살렘에서 마지막 공격과 폭동으로 인명을 잃은 후에도 긴장이 계속되고 있습니다.,Cinco Continentes_Ebola,,19,10,Disfluent,2,Little,2
+9,"Mañana estará en la región la nueva responsable europea de Asuntos Exteriores, la italiana Federica Mogherini.",내일이 지역의 새로운 외무부 (Federal Foreign Affairs) 책임자 인 이탈리아 Fedetera Mogherini가 될 것입니다.,Cinco Continentes_Ebola,,16,14,Disfluent,2,None,1
+10,Satisfacción en el gobierno israelí por la renuncia de la corte penal internacional a investigar la muerte de nueve activistas turcos en dos mil diez tras el asalto militar del ejército de Israel a una embarcación de activistas propalestinos que se dirigían a Gaza.,국제 형사 재판소의 사임에 대한 만족도 이스라엘 정부는 이스라엘 군에 의한 군사 공격 가자 지구로 향하고 친 팔레스타인 운동가의 선박 후 2010년에서 구 터키어 운동가의 죽음을 조사합니다.,Cinco Continentes_Ebola,,44,27,Disfluent,2,None,1
+11,La Unión Europea investiga si los acuerdos fiscales presidenciales de Luxemburgo con más ende trescientas grandes empresas son legales.,유럽 ,Cinco Continentes_Ebola,,19,1,Incomprehensible,1,None,1
+12,"Desde un rincón del mundo hablaremos con Sara Bordar, representante de UNICEF en Madagascar.",모퉁이에서 마다가스카르의 유니세프 (UNICEF) 대표 인 사라 보르 다르 (Sara Bordar)와 이야기하게됩니다.,Cinco Continentes_Ebola,"""desde un rincon"" ""모퉁이에서"" 단어그대로 번역함",14,12,Good,3,Most,3
+13,"Y nuestra información por continentes dedicada hoy a Asia se cumple un año del huracán Hayán que arrasó Filipinas,",그리고 오늘날 아시아에 헌정 된 대륙 별 정보는 필리핀을 황폐화시킨 허리케인 하야나 (Harian Haann) 이후 1 년입니다.,Cinco Continentes_Ebola,,19,17,Incomprehensible,1,Little,2
+14,Estaremos ahí en las islas filipinas y analizaremos las consecuencias que tuvo este desastre natural.,우리는 필리핀 섬에있을 것이며 우리는이 자연 재해의 결과를 분석 할 것입니다.,Cinco Continentes_Ebola,,15,11,Flawless,4,Everything,4
+15,Comenzamos.,우리는 시작한다.,Cinco Continentes_Ebola,,1,2,Good,3,Everything,4
+16,"En los últimos días han surgido informaciones sobre una supuesta reducción de la epidemia del ébola en los países, en más castigados por la crisis Guinea, Sierra Leona y Liberia.","최근에는 국가에서 가정 감소 에볼라 전염병의보고가 있었다, 어려운 기니, 시에라 리온과 라이베리아 위기로했다.",Cinco Continentes_Ebola,"""어려운 기니"" ",30,13,Good,3,Most,3
+17,En concreto según fuentes de la Organización Mundial de la Salud sobre la incidencia semanal de la enfermedad en África Occidental señalaban que el ébola había disminuído en Liberia. ,특히 세계 보건기구 (WHO)에 따르면 서 아프리카의 주간 발생률은 라이베리아에서 에볼라가 감소한 것으로 나타났다.,Cinco Continentes_Ebola,,29,14,Flawless,4,Everything,4
+18,Se mantenía estable en Guinea.,기니에서 안정적이었습니다.,Cinco Continentes_Ebola,,5,2,Flawless,4,Everything,4
+19,Y los casos de contagiados por la epidemia habían aumentado en Sierra Leona.,그리고 전염병에 감염된 사람들의 사례가 시에라 리온에서 증가했습니다.,Cinco Continentes_Ebola,,13,8,Flawless,4,Everything,4
+20,Hoy en declaraciones a la radio televisión en pública británica BBC el máximo responsable de la misión de Naciones Unidas contra el ébola en África Tony Banbury se refería precisamente a esto.,오늘은 아프리카 토니 밴버리에서 에볼라에 대한 유엔 임무의 머리가 여기에 정확하게 언급했다 공영 방송 BBC 라디오 말했다.,Cinco Continentes_Ebola,"source text does not respect punctuation (commas, etc.)",32,17,Disfluent,2,None,1
+21,"Se trata de un panorama mixto, ","그것은 혼합 된 파노라마입니다,",Cinco Continentes_Ebola,,6,4,Flawless,4,Everything,4
+22,En algunas zonas está bajando el número de casos como por ejemplo en Monrovia. ,일부 지역에서는 몬로 비아 (Monrovia)와 같이 사례 수가 감소하고 있습니다.,Cinco Continentes_Ebola,,14,10,Flawless,4,Everything,4
+23,En otros sin embargo comprobamos una aceleración significativa de la enfermedad.,그러나 다른 사람들에서는 우리가이 질병의 상당한 촉진을 보았습니다.,Cinco Continentes_Ebola,,11,8,Disfluent,2,None,1
+24,Pero el representante de la ONU insiste ya en que esta enfermedad es aún una crisis y que todavía no se tienen los recursos necesarios para hacerle frente.,그러나 유엔 대변인은이 질병은 여전히 ,Cinco Continentes_Ebola,,28,5,Disfluent,2,Little,2
+25,Esta enfermedad es todavía una auténtica crisis en algunas zonas sin duda. ,이 질병은 의심의 여지없이 일부 분야에서 여전히 진정한 위기입니다.,Cinco Continentes_Ebola,,12,9,Good,3,Everything,4
+26,Hay gentes y pueblos que no están recibiendo ninguna ayuda ahora mismo. ,지금 도움을받지 못하는 사람들과 사람들이 있습니다.,Cinco Continentes_Ebola,사람들과 사람들 = gente y pueblos,12,6,Good,3,Most,3
+27,Sobre el terreno la comunidad internacional y el mundo no tiene capacidad para acabar con esta enfermedad.,국제 사회와 세계는이 질병을 종식시킬 능력이 없습니다.,Cinco Continentes_Ebola,,17,7,Flawless,4,Everything,4
+28,"Duramos ahora ya hasta África, hasta Monrovia, la capital de Liberia donde vamos a hablar con Carolina López, coordinadora del centro de tratamiento de Médicos sin Fronteras en la capital liberiana. ","우리는 몬로 비아, 우리는 라이베리아의 수도에서 국경없는 캐롤라이나 로페즈, 치료 센터 의사의 코디네이터에게 이야기합니다 라이베리아의 수도로 아프리카에 지금 보낸다.",Cinco Continentes_Ebola,,31,19,Disfluent,2,Most,3
+29,"Carolina López, buenas noches.","캐롤라이나 로페즈, 안녕하세요.",Cinco Continentes_Ebola,,4,3,Flawless,4,Everything,4
+30,"Hola, buenas noches.","안녕, 안녕하세요.",Cinco Continentes_Ebola,,3,2,Flawless,4,Most,3
+31,"Carolina, ¿se ha apreciado ahí una reducción de la epidemia del ébola como asegura la Organización Mundial de la Salud?",세계 보건기구 (WHO)가 밝혔 듯이 에롤로에서 에볼라 전염병이 감소 했는가?,Cinco Continentes_Ebola,,20,10,Flawless,4,Everything,4
+32,"Sí, efectivamente, estas últimas semanas nos hemos dado cuenta que ha reducido bastante números de personas admitidas en el centro.",그렇습니다. 사실 지난 주 우리는 센터에 입소 한 많은 사람들을 줄 였음을 깨달았습니다.,Cinco Continentes_Ebola,,20,13,Flawless,4,Everything,4
+33,"En el centro de tratamiento, ¿qué coordinas ahí en la capital de Liberia?",치료 센터에서 라이베리아의 수도에서 무엇이 조정되고 있습니까?,Cinco Continentes_Ebola,,13,7,Good,3,Most,3
+34,¿A cuántas personas estáis tratando en estos momentos?,얼마나 많은 사람들이 지금 거래하고 있습니까?,Cinco Continentes_Ebola,tratando > 거래,8,6,Good,3,Most,3
+35,"Ahora mismo, ahí, alrededor de cincuenta y tres pacientes positivos.",지금 바로 거기에 약 53 명의 양성 환자가 있습니다.,Cinco Continentes_Ebola,,10,9,Flawless,4,Most,3
+36,¿Qué número de personas ingresan cada día y causan baja o pueden recuperarse y curarse de la enfermedad?,어떤 수의 사람들이 매일 병적으로 병을 앓고 있거나 병을 치료하고 치료할 수 있습니까?,Cinco Continentes_Ebola,,18,13,Flawless,4,Everything,4
+37,"Bueno, pues, la verdad es que en estos momentos tenemos números bastante positivos. ","글쎄, 진실은이 순간에 우리는 꽤 긍정적 인 숫자를 가지고 있다는 것입니다.",Cinco Continentes_Ebola,,13,11,Flawless,4,Everything,4
+38,"O sea, el descenso de las personas que ingresan quedan positivo. ","즉, 들어오는 사람들의 수가 줄어든 것은 긍정적입니다.",Cinco Continentes_Ebola,positivo (numero de personas) >  긍정적으로 번역함,11,7,Flawless,4,Most,3
+39,"Además bastantes pacientes que se curan y bueno, pues vemos que esto va evolucionando. ","또한 치유되고 좋은 많은 환자들, 우리는 이것이 진화하고 있음을 잘 알 수 있습니다.",Cinco Continentes_Ebola,,14,13,Disfluent,2,Little,2
+40,Lo que pasa es que nosotros creemos que también hay que tener un poquito de cuidado. ,우리는 조금씩 돌봐야한다고 믿는 것입니다.,Cinco Continentes_Ebola,,16,5,Disfluent,2,None,1
+41,No es el momento de relajarse porque está claro que la epidemia ya ha dado un pico y luego ha vuelto a bajar.,전염병이 이미 절정에 이르렀다가 다시 내려간 것이 분명하기 때문에 휴식을 취할 시간이 아닙니다.,Cinco Continentes_Ebola,컨텍스트에 맞지 않은 단어: relajarse > 휴식 ,23,13,Flawless,4,Most,3
+42,"Y bueno pensamos que volverá a subir, por supuesto no como al principio porque cuando la población no conoce lo que es la epidemia y tal.",물론 우리는 인구 증가가 전염병이 무엇인지 알지 못하기 때문에 처음에는 아니지만 다시 상승 할 것이라고 생각합니다.,Cinco Continentes_Ebola,,26,16,Flawless,4,Everything,4
+43,Realmente no pueden tomar las medidas de precauciones necesarias. ,그들은 정말로 필요한 사전 예방 조치를 취할 수 없습니다.,Cinco Continentes_Ebola,,9,9,Flawless,4,Everything,4
+44,"Hoy en día la población ya está al tanto de lo que es la enfermedad y de cómo se contagia, con lo cual pueden tomar esas medidas. ","요즘 사람들은 질병이 무엇인지, 질병이 어떻게 퍼져 나가고 있는지를 이미 알고 있습니다.",Cinco Continentes_Ebola,,27,12,Flawless,4,Everything,4
+45,Pero aún así creemos que esto va a volver a subir.,그러나 여전히 우리는 이것이 다시 되돌아 올 것이라고 믿습니다.,Cinco Continentes_Ebola,,11,9,Flawless,4,Everything,4
+46,"¿Vamos, estás diciendo que crees que va a volver a subir el número de contagiados?,","자, 감염된 사람들의 수가 다시 증가 할 것이라고 생각하는 것입니까?",Cinco Continentes_Ebola,,15,10,Flawless,4,Everything,4
+47,"¿por qué, por qué tenéis esa sensación de que va a volver a subir el número de personas contagiadas por el ébola?","왜, 왜 에볼라에 감염된 사람들의 수가 다시 증가 할 것이라는 느낌이 들었습니까?",Cinco Continentes_Ebola,,22,12,Flawless,4,Everything,4
+48,"Bueno, pues porque no todas las actividades que se serían hacer están funcionando correctamente. ",왜냐하면 모든 활동이 제대로 작동하지 않기 때문입니다.,Cinco Continentes_Ebola,,14,7,Flawless,4,Everything,4
+49,"El seguimiento de contactos, por ejemplo hay muchísimo trabajo por hacer. ",연락을 취하십시오. 예를 들어 할 일이 많습니다.,Cinco Continentes_Ebola,,11,7,Disfluent,2,None,1
+50,"Se está haciendo, pero no al cien por cien. ",그것은 끝났지 만 100 %는 아닙니다.,Cinco Continentes_Ebola,,9,6,Good,3,Little,2
+51,"Al igual que, por ejemplo, el servicio de ambulancias, tenemos, seguimos teniendo pacientes que vienen a pie, por sus propios medios porque este servicio no funciona.","예를 들어, 구급차 서비스처럼 우리는이 서비스가 작동하지 않기 때문에 자신의 수단으로 도보로 오는 환자가 있습니다.",Cinco Continentes_Ebola,,26,15,Flawless,4,Everything,4
+52,"Y bueno, pues también está el asunto de la incineración.",그리고 소각 문제도 있습니다.,Cinco Continentes_Ebola,,10,4,Flawless,4,Everything,4
+53,Hoy en día seguían incinerando a las personas que mueren por ébola.,오늘 그들은 에볼라가 죽은 사람들을 소각했습니다.,Cinco Continentes_Ebola,,12,6,Disfluent,2,None,1
+54,"Y esto culturalmente, o sea, va totalmente en contra de la cultura de la población. ","그리고 이것은 문화적으로, 즉 전적으로 인구 문화에 어긋납니다.",Cinco Continentes_Ebola,,15,8,Flawless,4,Everything,4
+55,Entonces también se esconden más.,그런 다음 그들은 또한 더 많이 숨 깁니다.,Cinco Continentes_Ebola,,5,8,Good,3,Most,3
+56,¿Habéis notado? ,너는 눈치 챘 는가?,Cinco Continentes_Ebola,,2,4,Disfluent,2,Little,2
+57,Te preguntaba. ,나는 너에게 물었다.,Cinco Continentes_Ebola,,2,3,Disfluent,2,Little,2
+58,Habéis notado refuerzos en medios y recursos en los últimos tiempos en la lucha ahí contra el ébola en Liberia?,라이베리아의 에볼라 퇴치를위한 수단과 자원에 대한 보강을 최근에 보았습니까?,Cinco Continentes_Ebola,,20,9,Flawless,4,Everything,4
+59,"Pues, sí que hay más organizaciones que han llegado y que están dispuestas a abrir otros centros. ","글쎄요, 도착한 기관이 더 많으며 기꺼이 다른 센터를 열 수 있습니다.",Cinco Continentes_Ebola,,17,11,Good,3,Most,3
+60,Y creemos que eso es muy positivo.,그리고 우리는 그것이 매우 긍정적이라고 믿습니다.,Cinco Continentes_Ebola,,7,6,Good,3,Everything,4
+61,Sin embargo creemos también que tienen que acelerar un poquito más el proceso. ,그러나 우리는 프로세스 속도를 좀 더 높여야한다고 생각합니다.,Cinco Continentes_Ebola,,13,8,Flawless,4,Everything,4
+62,Que de todas formas hay que relajarse y que además habría que reforzar otras actividades.,어떤 경우 든 휴식을 취해야하며 다른 활동을 강화해야합니다.,Cinco Continentes_Ebola,,15,8,Good,3,Most,3
+63,"O sea, no solo será abrir centros de enviar médicos. ","즉, 의료 센터를 개설 할뿐만 아니라",Cinco Continentes_Ebola,,10,6,Flawless,4,Everything,4
+64,También hay que reforzar como te decía seguimiento de contactos. ,또한 연락처 추적이라고 말하면서 강화해야합니다.,Cinco Continentes_Ebola,,10,5,Disfluent,2,Most,3
+65,Hay que reforzar el servicio de ambulancias. ,구급차 서비스를 강화해야합니다.,Cinco Continentes_Ebola,,7,3,Flawless,4,Everything,4
+66,Hay que hacer una sensibilización más fuerte con muchos más recursos.,더 많은 자원으로 더 강한 인식을 가져야합니다.,Cinco Continentes_Ebola,,11,7,Flawless,4,Everything,4
+67,"Y bueno, en este sentido también te diría que hoy en día el problema que encontramos en el centro es que los pacientes que vienen, que no tienen ningún síntoma de ébola, pero que no son aceptados en los hospitales por miedo.",그리고이 점에서 저는 또한 오늘날 우리가 중심에서 발견하는 문제는 에볼라의 증상이 없지만 병원에서 공포로 받아 들여지지 않는 환자라는 것입니다.,Cinco Continentes_Ebola,,42,19,Flawless,4,Everything,4
+68,"Y bueno, pues habría que reforzar también esto es un poco, ¿no?, que vengan organizaciones, que ayuden al ministerio a poder gestionar estos centros hospitalarios que no tienen nada que ver con el ébola para ser una buena clasificación de los pacientes, un buen triaje como nosotros llamamos.",그리고 에보라와 아무 관련이없는 병원을 환자의 훌륭한 분류로 관리 할 수 ,Cinco Continentes_Ebola,,48,11,Incomprehensible,1,Little,2
+69,"Y que bueno, podemos enviar a pacientes que no están enfermos de ébola, que no son sospechosos de ébola a esos centros.",그리고 에콜라로 의심이없는 에볼라와 아프지 않은 환자들을 그 센터로 보낼 수 있습니다.,Cinco Continentes_Ebola,에콜라 오타,22,12,Flawless,4,Everything,4
+70,Tú estás ahí trabajando sobre el terreno por cierto. ,당신은 거기에서 일하고 있습니다.,Cinco Continentes_Ebola,lack of question mark on source text. translation does not recognize interrogation.,9,4,Disfluent,2,Little,2
+71,¿Cuánto tiempo llevas ahí en Monrovia?,먼로 비아에 얼마나 있었 니?,Cinco Continentes_Ebola,space Mon rovia,6,5,Flawless,4,Everything,4
+72,Llevo cuatro semanas aquí.,나는 4 주간 여기왔다.,Cinco Continentes_Ebola,,4,4,Good,3,Most,3
+73,Cuatro semanas. ,4 주,Cinco Continentes_Ebola,,2,2,Flawless,4,Everything,4
+74,¿Y cuáles son las principales carencias que aprecias que existen ahora para luchar contra la enfermedad allí donde estás tú?,그리고 당신은 질병에 대처하기 위해 현재 존재하고있는 당신이 느끼는 주된 결함은 무엇입니까?,Cinco Continentes_Ebola,,20,12,Flawless,4,Everything,4
+75,"Bueno, pues sobre todo lo que te decía antes. ","글쎄, 무엇보다도 내가 전에 말했던 것.",Cinco Continentes_Ebola,,9,6,Flawless,4,Everything,4
+76,"O sea, el reforzar el sistema de ambulancias, el reforzar el seguimiento de contactos, y eso, sobre todo el apoyar estos hospitales públicos para que los pacientes que no tienen síntomas de ébola puedan acceder.","즉, 구급차 시스템의 보강, 연락 후속 조치의 강화, 그리고 무엇보다도 이러한 공립 병원을 지원하여 에볼라 증상이없는 환자가 액세스 할 수있게하는 것입니다.",Cinco Continentes_Ebola,,35,21,Flawless,4,Everything,4
+77,Porque esto sí podemos ya más daños con lateral de lo que es la enfermedad.,이것은 우리가 이미 질병보다 측면에 더 많은 손상을 입힐 수 있기 때문입니다.,Cinco Continentes_Ebola,source text - con lateral  > daño colateral check,15,12,Flawless,4,Everything,4
+78,Está bien bastante grave. ,꽤 진지해.,Cinco Continentes_Ebola,expression,4,2,Good,3,Most,3
+79,"O sea las personas, evidentemente el ébola es una enfermedad muy grave. ","즉, 에볼라는 분명히 매우 심각한 질병입니다.",Cinco Continentes_Ebola,,12,6,Flawless,4,Everything,4
+80,"Pero en personas que no tienen acceso a lo que es la salud, digamos, cotidiana, que son todas las enfermedades como la malaria, y como cuantas otras enfermedades que existen en este país.","그러나 말라리아와 같은 모든 질병과이 나라에 존재하는 몇 가지 다른 질병 인 건강, 말, 매일에 접근 할 수없는 사람들.",Cinco Continentes_Ebola,,33,19,Disfluent,2,Most,3
+81,"¿Has podido constatar una diferencia en el tiempo que llevas en cuanto a la incidencia de la epidemia en las zonas rurales y en las zonas urbanas, una diferencia?",농촌 지역과 도시 지역의 전염병 발병률의 차이에 대해 당신이 취한 시간의 차이를 알아 봤습니까?,Cinco Continentes_Ebola,,29,14,Flawless,4,Most,3
+82,Yo no te puedo hablar de las zonas rurales. ,농촌 지역에 대해서는 말할 수 없습니다.,Cinco Continentes_Ebola,expression,9,6,Flawless,4,Everything,4
+83,"Porque yo, en las zonas rurales no estoy. ",나는 농촌 지역에 없기 때문에.,Cinco Continentes_Ebola,,8,5,Flawless,4,Everything,4
+84,Lo que sí que sé es que el centro que tenemos en Soya también ha disminuído muchísimo.,내가 아는 것은 우리가 콩에서 가지고있는 중심 또한 많이 줄어들 었다는 것입니다.,Cinco Continentes_Ebola,Soya 지역 >  콩,17,12,Flawless,4,Most,3
+85,"O sea, la cosa es también, o sea, bastante positivo.","즉, 그 일은 또한 매우 긍정적입니다.",Cinco Continentes_Ebola,,10,6,Flawless,4,Everything,4
+86,También porque tiene muchísimo menos casos que hace una semana.,또한 일주일 전보다 훨씬 적은 경우가 있기 때문에.,Cinco Continentes_Ebola,casos 경우,10,8,Flawless,4,Most,3
+87,"Entonces parece que sí, que en general esto está bajando.","그렇다면 네, 일반적으로 이것은 추락하고있는 것처럼 보입니다.",Cinco Continentes_Ebola,bajando > 추락,10,7,Flawless,4,Most,3
+88,"Pero no significa que vaya a bajar, que vaya a terminar.",그러나 그것이 내려갈 것이라는 의미는 아닙니다.,Cinco Continentes_Ebola,,11,6,Flawless,4,Most,3
+89,Esto ya ha ocurrido en Sierra Leona y ya ha ocurrido en Guinea. ,이것은 이미 시에라 리온에서 일어 났으며 이미 기니에서 일어났습니다.,Cinco Continentes_Ebola,,13,9,Flawless,4,Everything,4
+90,"O sea, los casos bajaron para volver a subir. ","다시 말하면, 그 사건은 다시 일어날 것입니다.",Cinco Continentes_Ebola,시재 맞지 않음,9,7,Good,3,Most,3
+91,Volvieron a bajar para volver a subir.,그들은 뒤로 물러나 러 갔다.,Cinco Continentes_Ebola,,7,5,Incomprehensible,1,None,1
+92,"O sea, esto hay que tenerlo en cuenta. ","즉,이 점을 고려해야합니다.",Cinco Continentes_Ebola,,8,3,Flawless,4,Everything,4
+93,No es momento de relajarse. ,긴장을 풀 시간이 아닙니다.,Cinco Continentes_Ebola,,5,4,Flawless,4,Everything,4
+94,"O sea, es momento de reforzar justamente todas las actividades para subir la calidad, ","즉, 품질 향상을위한 모든 활동을 강화할 때입니다.",Cinco Continentes_Ebola,,14,7,Flawless,4,Everything,4
+95,para que todo el mundo tenga un respiro para poder trabajar un poco más en profundidad sobre ciertos temas en las actividades,모든 사람들이 활동의 ,Cinco Continentes_Ebola,끊김,22,3,Disfluent,2,Little,2
+96,"Y bueno, podéis seguir haciendo frente a esta epidemia porque esto no se termina hoy.",그리고 이것이 오늘 끝나지 않기 때문에 계속 전염병에 직면 할 수 있습니다.,Cinco Continentes_Ebola,"""y bueno"" > 그리고",15,12,Good,3,Most,3
+97,"Muy bien, Carolina López, coordinadora del centro de tratamiento contra el ébola de Médicos sin Fronteras en Monrovia. ","아주 잘, 캐롤라이나 López, Monrovia에있는 Médicos sin Fronteras의 에볼라 치료 센터 코디네이터.",Cinco Continentes_Ebola,muy bien > 아주,18,12,Disfluent,2,Most,3
+98,Y gracias por tu presencia en Cinco Continentes y buenas noches.,그리고 다섯 대륙에서 좋은 저녁을 보내 주셔서 감사합니다.,Cinco Continentes_Ebola,,11,8,Good,3,Most,3
