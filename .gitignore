@@ -2,7 +2,10 @@
 .DS_Store
 data/figures/
 
-
+images/
+notes/
+utils/
+data/processed/
 
 
 
