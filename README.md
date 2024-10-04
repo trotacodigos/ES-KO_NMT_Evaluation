@@ -1,6 +1,6 @@
 # Neural Machine Translation Evaluation &amp; Error Analysis in a Spanish-Korean Translation
 
-This repository is to share human evaluation data of the Spanish-to-Korean translation. This dataset is manually built and collected from professional translators, serving as valuable resources for my Ph.D thesis at Universitat Pompeu Fabra. You can find the full text at [ResearchGate](https://www.researchgate.net/publication/347510033_Neural_Machine_Translation_Evaluation_Error_Analysis_in_a_Spanish-Korean_Translation).
+This repository is to share human evaluation data of the Spanish-to-Korean translation. This dataset is manually built and collected from professional translators, serving as valuable resources for my Ph.D thesis at Universitat Pompeu Fabra. You can find the full text at [ResearchGate](https://www.researchgate.net/publication/384284867_Neural_Machine_Translation_Evaluation_Error_Analysis_in_a_Spanish-Korean_Translation).
 
 
 ### Dataset
